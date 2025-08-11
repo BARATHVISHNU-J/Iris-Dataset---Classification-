@@ -112,6 +112,6 @@ You can modify:
 - Data preprocessing steps
 - Evaluation metrics
 
-## License
+##Contact :
 
-This project is open source and available under the MIT License. 
+email : jbarathvishnu2005@gmail.com
